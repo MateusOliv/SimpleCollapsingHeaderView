@@ -7,7 +7,8 @@
 
 A Simple collapsing header view based on this [post](https://michiganlabs.com/ios/development/2016/05/31/ios-animating-uitableview-header/)
 
-![Demo Gif](example.gif)
+
+![Demo Gif](https://github.com/lucasbordini/SimpleCollapsingHeaderView/blob/master/example.gif/)
 
 ## Usage
 
